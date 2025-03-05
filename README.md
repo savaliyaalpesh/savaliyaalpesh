@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **MERN Stack, Frontend**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **alpeshsavaliya63@gmail.com**
 
