@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **E-Commerce**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Figma**
 
 - 💬 Ask me about **Frontend**
 
